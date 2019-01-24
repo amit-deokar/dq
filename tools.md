@@ -8,3 +8,5 @@
 # New tools:
 - Tableau Prep
 - Trifacta Wrangler
+- Weka
+- Yet another tool!
