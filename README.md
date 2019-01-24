@@ -1,10 +1,3 @@
-# dq
+# Demo Repository for MIST.6150
 
-## Section 1: First data quality repo
-- python
-- R 
-## Section 2: Some tools
-- weka
-- rapidminer
-## Section 3: Use cases
-- customer segmentation
+This is a simple repository to demo Git and GitHub features.
