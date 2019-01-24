@@ -1,16 +1,11 @@
-# List of lots of tools:
+# Some data mining tools:
 - IBM SPSS Modeler
 - IBM Statistics
 - Orange
 - KNIME
 - Rapidminer
+- Weka
 
-# New tools:
+# Some data wrangling tools:
 - Tableau Prep
 - Trifacta Wrangler
-- Weka
-- Yet another tool!
-
-# Features
-- classification
-Done!
