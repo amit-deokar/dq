@@ -4,5 +4,9 @@
 - Orange
 - KNIME
 - Rapidminer
+
+# New tools:
+- Tableau Prep
+- Trifacta Wrangler
 - Weka
 - Yet another tool!
