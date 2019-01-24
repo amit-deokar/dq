@@ -10,3 +10,7 @@
 - Trifacta Wrangler
 - Weka
 - Yet another tool!
+
+# Features
+- classification
+- time series analysis
