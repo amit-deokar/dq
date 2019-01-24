@@ -13,4 +13,3 @@
 
 # Features
 - classification
-- time series analysis
