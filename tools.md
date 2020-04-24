@@ -8,3 +8,8 @@
 
 # Some data wrangling tools:
 - Tableau Prep
+
+# Languages
+- Python
+- R
+- SQL
