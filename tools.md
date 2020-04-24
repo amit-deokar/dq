@@ -8,7 +8,6 @@
 
 # Some data wrangling tools:
 - Tableau Prep
-- Trifacta Wrangler
 
 # Languages
 - Python
