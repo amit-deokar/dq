@@ -12,3 +12,6 @@
 
 # Some languages:
 - Python
+- R
+- SQL
+
