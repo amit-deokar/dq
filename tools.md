@@ -13,3 +13,4 @@
 - Python
 - R
 - SQL
+- Scala
