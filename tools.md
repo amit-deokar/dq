@@ -9,3 +9,6 @@
 # Some data wrangling tools:
 - Tableau Prep
 - Trifacta Wrangler
+
+# Some languages:
+- Python
